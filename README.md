@@ -1,3 +1,14 @@
+---
+title: Wbk
+emoji: 🇯🇵
+colorFrom: gray
+colorTo: indigo
+sdk: docker
+pinned: false
+license: mit
+short_description: Streaming Anime ✨
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
