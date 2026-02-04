@@ -1,6 +1,6 @@
 ---
 title: Wbk
-emoji: 🇯🇵
+emoji: 🍿
 colorFrom: gray
 colorTo: indigo
 sdk: docker
